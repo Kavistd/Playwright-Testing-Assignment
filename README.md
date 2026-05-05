@@ -4,7 +4,7 @@
 **Student:** Kavindu Chamuditha  
 **Registration Number:** IT23315150  
 **Degree:** BSc (Hons) in Information Technology – Year 3  
-**Module:** IT3040 – IT Project Management (Semester 1, 2026)  
+**Module:** IT3040 – IT Project Management 
 
 ---
 
